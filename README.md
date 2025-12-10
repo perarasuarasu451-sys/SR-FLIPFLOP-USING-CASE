@@ -34,7 +34,21 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-/* write all the steps invloved */
+1 Open Quartus software and create a new project. 
+
+2 Create a new VHDL file and write the code for the SR Flip Flop. 
+
+3 Compile the design by clicking on "Processing" -> "Start Compilation". 
+
+4 Create a testbench file to simulate the design. 
+
+5 Write the testbench code and add stimulus to test the SR Flip Flop. 
+
+6 Run the simulation by clicking on "Processing" -> "Start Simulation". 
+
+7 Observe the waveforms and verify the SR Flip Flop behavior. 
+
+8 Analyze the results and make any necessary changes to the design.
 
 **PROGRAM**
 ```
